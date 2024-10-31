@@ -28,7 +28,7 @@ under the /api folder you can find code that relates to the api
 - controller.py is a script that used to test the api
 
 ## How to
-- First you need to clone the repository by `git clone https://github.com/hadar-grimberg/algocart.git`
+- First you need to clone the repository by `git clone https://github.com/hadar-grimberg/titanic_with_api.git`
 - Second, install the requirements by `pip install -r /path/to/requirements.txt`
 - Third, in the root directory of the repository, run `python api/app.py`
 
