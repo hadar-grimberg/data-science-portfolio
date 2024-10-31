@@ -1,5 +1,3 @@
-# algocart
-
 ## About the dataset:
 
 - **Survived** is the predicting value. It is a binary variable where 1 is survived and 0 is not survived.  
